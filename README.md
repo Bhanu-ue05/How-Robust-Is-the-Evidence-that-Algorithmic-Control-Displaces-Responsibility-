@@ -8,6 +8,7 @@ This reproducibility archive contains the completed exploratory secondary analys
 - `project16_revised_results.zip` contains the aggregate PDF, PNG, and CSV outputs and provenance records. These exports were generated in an independently verified local run of the same code. The Kaggle tables agree with those exports to displayed precision.
 - `requirements.txt` lists the analysis dependencies for local use.
 - `SHA256SUMS.txt` records the checksums of the archive contents.
+-  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24460669.svg)](https://doi.org/10.5281/zenodo.24460669)
 
 ## Reproduce the analysis
 
