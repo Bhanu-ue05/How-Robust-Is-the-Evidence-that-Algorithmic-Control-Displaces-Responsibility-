@@ -1,0 +1,3 @@
+study,planned,converged,failed_or_nonconverged,positive_share,positive_CI_excludes_zero_share,median_effect,min_effect,max_effect
+1,36,36,0,1.0,1.0,0.29946859710104945,0.2730851090827734,0.3072272215973007
+2,36,36,0,1.0,1.0,0.30971273530407817,0.2634771413722699,0.3204979352826118

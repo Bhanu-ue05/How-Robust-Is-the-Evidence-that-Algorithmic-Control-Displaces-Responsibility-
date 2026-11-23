@@ -1,0 +1,245 @@
+[
+  {
+    "id": "AUDIT",
+    "kind": "table",
+    "caption": "Coding and sample checks; all binary recodes agree with author variables",
+    "files": [
+      "AUDIT.csv",
+      "AUDIT.pdf"
+    ]
+  },
+  {
+    "id": "REPRODUCTION",
+    "kind": "table",
+    "caption": "Component-regression approximation; discrepancies must be reviewed before publication",
+    "files": [
+      "REPRODUCTION.csv",
+      "REPRODUCTION.pdf"
+    ]
+  },
+  {
+    "id": "RQ1_T1",
+    "kind": "table",
+    "caption": "Full planned ledger; effects are changes in average choice probability, restricted minus affording",
+    "files": [
+      "RQ1_T1.csv",
+      "RQ1_T1.pdf"
+    ]
+  },
+  {
+    "id": "RQ1_F1",
+    "kind": "figure",
+    "caption": "Marginal effects; pointwise 95% delta intervals; colors identify outcome models, ranks identify specifications",
+    "files": [
+      "RQ1_F1.pdf",
+      "RQ1_F1.png"
+    ]
+  },
+  {
+    "id": "RQ1_T2",
+    "kind": "table",
+    "caption": "Descriptive proportions among converged specifications; correlated fits are not independent evidence",
+    "files": [
+      "RQ1_T2.csv",
+      "RQ1_T2.pdf"
+    ]
+  },
+  {
+    "id": "RQ1_F2",
+    "kind": "figure",
+    "caption": "Released-sample count distributions; bars show observed proportions",
+    "files": [
+      "RQ1_F2.pdf",
+      "RQ1_F2.png"
+    ]
+  },
+  {
+    "id": "RQ2_T1",
+    "kind": "table",
+    "caption": "Study 2 shared complete cases; HC3 95% intervals in rating units; Holm across 14 contrasts",
+    "files": [
+      "RQ2_T1.csv",
+      "RQ2_T1.pdf"
+    ]
+  },
+  {
+    "id": "RQ2_F1",
+    "kind": "figure",
+    "caption": "Study 2 T2 actor and aggregation contrasts; same participants for every row",
+    "files": [
+      "RQ2_F1.pdf",
+      "RQ2_F1.png"
+    ]
+  },
+  {
+    "id": "RQ2_F2",
+    "kind": "figure",
+    "caption": "Mechanical maximum inflation; high values indicate concentration of blame on selected actors",
+    "files": [
+      "RQ2_F2.pdf",
+      "RQ2_F2.png"
+    ]
+  },
+  {
+    "id": "RQ2_T2",
+    "kind": "table",
+    "caption": "Study 2 T2 Spearman correlations on identical complete cases; independent ratings need not sum to a constant",
+    "files": [
+      "RQ2_T2.csv",
+      "RQ2_T2.pdf"
+    ]
+  },
+  {
+    "id": "RQ3_F1",
+    "kind": "figure",
+    "caption": "Eight item-specific HC3 pointwise 95% intervals; participants recur across items",
+    "files": [
+      "RQ3_F1.pdf",
+      "RQ3_F1.png"
+    ]
+  },
+  {
+    "id": "RQ3_T1",
+    "kind": "table",
+    "caption": "Joint tests in saturated linear probability model; participant-cluster covariance, Holm over two tests",
+    "files": [
+      "RQ3_T1.csv",
+      "RQ3_T1.pdf"
+    ]
+  },
+  {
+    "id": "RQ3_F2",
+    "kind": "figure",
+    "caption": "Observed choice rates and nonmissing denominators by study and dilemma",
+    "files": [
+      "RQ3_F2.pdf",
+      "RQ3_F2.png"
+    ]
+  },
+  {
+    "id": "RQ3_T2",
+    "kind": "table",
+    "caption": "Leave-one-dilemma-out mean-choice effects, HC3 intervals; all rows remain correlated",
+    "files": [
+      "RQ3_T2.csv",
+      "RQ3_T2.pdf"
+    ]
+  },
+  {
+    "id": "RQ4_T1",
+    "kind": "table",
+    "caption": "Linear exploratory a\u00d7b on mean-choice scale; 2000 participant bootstraps, percentile 95% intervals",
+    "files": [
+      "RQ4_T1.csv",
+      "RQ4_T1.pdf"
+    ]
+  },
+  {
+    "id": "RQ4_F1",
+    "kind": "figure",
+    "caption": "Linear structural sensitivity at fixed \u03c1; curves are not causal effects or confidence bands",
+    "files": [
+      "RQ4_F1.pdf",
+      "RQ4_F1.png"
+    ]
+  },
+  {
+    "id": "RQ4_T2",
+    "kind": "table",
+    "caption": "Alpha is inapplicable to single items and maximums; external-mean alpha is descriptive, not evidence of validity",
+    "files": [
+      "RQ4_T2.csv",
+      "RQ4_T2.pdf"
+    ]
+  },
+  {
+    "id": "RQ4_F2",
+    "kind": "figure",
+    "caption": "T2 responsibility adjusted for T1; T1 is post-assignment, so these conditional contrasts are descriptive",
+    "files": [
+      "RQ4_F2.pdf",
+      "RQ4_F2.png"
+    ]
+  },
+  {
+    "id": "RQ4_T3",
+    "kind": "table",
+    "caption": "Study 2 H3 component regressions with 95% OLS intervals and Figure 5 benchmarks",
+    "files": [
+      "RQ4_T3.csv",
+      "RQ4_T3.pdf"
+    ]
+  },
+  {
+    "id": "RQ4_T4",
+    "kind": "table",
+    "caption": "Study 2 association of unethical choice count with later ratings",
+    "files": [
+      "RQ4_T4.csv",
+      "RQ4_T4.pdf"
+    ]
+  },
+  {
+    "id": "RQ4_T5",
+    "kind": "table",
+    "caption": "Paired differences in association, alternative minus maximum",
+    "files": [
+      "RQ4_T5.csv",
+      "RQ4_T5.pdf"
+    ]
+  },
+  {
+    "id": "RQ4_F3",
+    "kind": "figure",
+    "caption": "Alternative minus maximum, with paired percentile bootstrap intervals",
+    "files": [
+      "RQ4_F3.pdf",
+      "RQ4_F3.png"
+    ]
+  },
+  {
+    "id": "RQ2_T3",
+    "kind": "table",
+    "caption": "Difference in T2 assignment effects, alternative minus maximum",
+    "files": [
+      "RQ2_T3.csv",
+      "RQ2_T3.pdf"
+    ]
+  },
+  {
+    "id": "RQ5_T1",
+    "kind": "table",
+    "caption": "Published recruitment versus released and retained rows; released is post-exclusion, not an independently verified preregistration rule",
+    "files": [
+      "RQ5_T1.csv",
+      "RQ5_T1.pdf"
+    ]
+  },
+  {
+    "id": "RQ5_F1",
+    "kind": "figure",
+    "caption": "Retained-sample HC3 contrasts; strict screening uses pre-task checks and can introduce selection bias",
+    "files": [
+      "RQ5_F1.pdf",
+      "RQ5_F1.png"
+    ]
+  },
+  {
+    "id": "RQ5_F2",
+    "kind": "figure",
+    "caption": "Worst-case excluded-participant outcomes and allocation; endpoint uses all 13 / 12 excluded participants; no sampling uncertainty included",
+    "files": [
+      "RQ5_F2.pdf",
+      "RQ5_F2.png"
+    ]
+  },
+  {
+    "id": "RQ5_T2",
+    "kind": "table",
+    "caption": "Screen indicators overlap and must not be summed; repeats are intentionally ignored in the first-pass rule",
+    "files": [
+      "RQ5_T2.csv",
+      "RQ5_T2.pdf"
+    ]
+  }
+]
