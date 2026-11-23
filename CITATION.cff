@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this analysis code, please cite this repository."
+title: "How Robust Is the Evidence that Algorithmic Control Displaces Responsibility?"
+type: software
+authors:
+  - family-names: "Iyer"
+    given-names: "Nikhilesh Krishnamurthy"
+  - family-names: "Mudraboina"
+    given-names: "Bhanu Prasad"
+repository-code: "https://github.com/Bhanu-ue05/How-Robust-Is-the-Evidence-that-Algorithmic-Control-Displaces-Responsibility-"
