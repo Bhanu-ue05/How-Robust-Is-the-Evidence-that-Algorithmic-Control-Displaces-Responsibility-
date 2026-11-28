@@ -7,6 +7,14 @@ An exploratory secondary analysis of two experiments examining algorithmic auton
 - Nikhilesh Krishnamurthy Iyer
 - Bhanu Prasad Mudraboina
 
+## Project links
+
+- [GitHub repository](https://github.com/Bhanu-ue05/How-Robust-Is-the-Evidence-that-Algorithmic-Control-Displaces-Responsibility-)
+- [Zenodo record](https://doi.org/10.5281/zenodo.24460669)
+- [ChatGPT project conversation](https://chatgpt.com/share/6b0ab3e2-b734-83ed-bd2e-59bbd8f2409c)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24460669.svg)](https://doi.org/10.5281/zenodo.24460669)
+
 ## Overview
 
 This project examines whether findings about algorithmic autonomy restriction remain stable across alternative statistical models, responsibility measures, and participant-screening rules.
