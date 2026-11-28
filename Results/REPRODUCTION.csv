@@ -1,0 +1,5 @@
+study,benchmark,published,recomputed,difference,within_0.03
+1,NB autonomy coefficient,-0.78,-0.7786123188637288,0.0013876811362711905,True
+1,NB path a times b,-0.044,-0.04374816439470706,0.00025183560529293963,True
+2,NB autonomy coefficient,-1.1,-1.1035348152694515,-0.00353481526945143,True
+2,NB path a times b,-0.083,-0.0831548726103339,-0.00015487261033389488,True

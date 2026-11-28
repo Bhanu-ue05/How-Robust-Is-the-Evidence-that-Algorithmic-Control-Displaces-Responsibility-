@@ -1,0 +1,9 @@
+study,rule,recruited,available,retained,status
+1,no_exclusions,289,276,,unavailable: excluded rows absent
+1,released,289,276,276.0,released rows only
+1,hex_perfect,289,276,270.0,released rows only
+1,first_pass_perfect,289,276,253.0,released rows only
+2,no_exclusions,268,256,,unavailable: excluded rows absent
+2,released,268,256,256.0,released rows only
+2,hex_perfect,268,256,252.0,released rows only
+2,first_pass_perfect,268,256,227.0,released rows only
